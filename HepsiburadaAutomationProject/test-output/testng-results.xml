@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-17T05:09:49 TRT" name="Default suite" finished-at="2022-04-17T05:09:57 TRT" duration-ms="8413">
+    <groups>
+    </groups>
+    <test started-at="2022-04-17T05:09:49 TRT" name="Default test" finished-at="2022-04-17T05:09:57 TRT" duration-ms="8413">
+      <class name="Tests.LoginTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Tests.LoginTest@7bab3f1a]" started-at="2022-04-17T05:09:49 TRT" name="beforeClass" finished-at="2022-04-17T05:09:53 TRT" duration-ms="4516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="CheckAddingProductsToBasket()[pri:0, instance:Tests.LoginTest@7bab3f1a]" started-at="2022-04-17T05:09:54 TRT" name="CheckAddingProductsToBasket" finished-at="2022-04-17T05:09:57 TRT" duration-ms="3689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckAddingProductsToBasket -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Tests.LoginTest@7bab3f1a]" started-at="2022-04-17T05:09:57 TRT" name="afterClass" finished-at="2022-04-17T05:09:57 TRT" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
